@@ -1,1 +1,1 @@
-Ollie v1.1: iOS speech synthesis fix. Strong utterance reference, voice selection, direct user-gesture speaking, test voice button in Settings, versioned offline cache. Upload all files to GitHub Pages root.
+Ollie v1.2 — colorful illustrated card artwork. Keeps iPhone speech fixes, single-tap Settings, custom camera photos and offline support. Upload ALL contents, including the art folder, to GitHub repository root.
