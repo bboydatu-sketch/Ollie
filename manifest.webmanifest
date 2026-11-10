@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "My Words AAC",
-  "short_name": "My Words",
+  "name": "Ollie AAC",
+  "short_name": "Ollie",
   "description": "A simple picture-based communication board",
   "start_url": "./index.html",
   "scope": "./",

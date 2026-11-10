@@ -1,4 +1,4 @@
-const CACHE = 'my-words-aac-v04';
+const CACHE = 'my-words-aac-v05';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate', event => {event.waitUntil(Promise.all([caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith('my-words-aac-') && key!==CACHE).map(key=>caches.delete(key)))),self.clients.claim()]));});
