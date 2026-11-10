@@ -1,1 +1,1 @@
-Ollie v1.3: Image fix. All 18 card pictures are now embedded directly in index.html, so no art folder upload is needed. Upload all 5 root files to GitHub Pages. Existing cards/photos retained.
+Ollie v1.3 — updated singing-child app icon. All 18 card pictures remain embedded in index.html. Upload the six files in this ZIP to the root of your GitHub Pages Ollie repository. The service-worker cache version has been incremented. On iPhone, remove the old Home Screen shortcut and use Safari > Share > Add to Home Screen to see the new icon.
