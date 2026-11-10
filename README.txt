@@ -1,1 +1,1 @@
-Ollie v1.2 — colorful illustrated card artwork. Keeps iPhone speech fixes, single-tap Settings, custom camera photos and offline support. Upload ALL contents, including the art folder, to GitHub repository root.
+Ollie v1.3: Image fix. All 18 card pictures are now embedded directly in index.html, so no art folder upload is needed. Upload all 5 root files to GitHub Pages. Existing cards/photos retained.
