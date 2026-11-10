@@ -1,1 +1,1 @@
-Ollie v1.0 - Settings opens with a normal tap (no hold). Upload all files to GitHub Pages repository root. Updated service worker uses network-first navigation to reduce stale app versions. Existing cards and device-stored photos are preserved.
+Ollie v1.1: iOS speech synthesis fix. Strong utterance reference, voice selection, direct user-gesture speaking, test voice button in Settings, versioned offline cache. Upload all files to GitHub Pages root.
